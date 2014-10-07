@@ -1,0 +1,76 @@
+HappyCook_v1.0
+
+completed skeletion view of app
+
+***** UI To be done ********
+
+1. UI Recipe Search Box [home.jsp, allRecipes.jsp]
+Make the search box fixed on the page
+Add Collapsible icon and function for search box
+Add Cuisines dropdown icon
+Add Preparation Time slidebar 
+Add Diets dropdown icon 
+Add Cooking type dropdown icon
+Add Allergies dropdown icon
+[http://tympanus.net/Tutorials/CustomDropDownListStyling/index4.html]
+
+
+2. UI Home Page [home.jsp]-
+Add Recommended Recipe for the day
+Add Cooking Hacks
+
+3. UI All Recipes [allRecipes.jsp]
+Beautify the recipe boxes 
+[Add icons for Time, think of how to display all the ingredients if there are more than 7 ingredients, refer to yummly]
+Add the rating stars or stars 
+Add social media share icon 
+Add animiation when adding recipe to myRecipeList if possible
+Add Goto Top button - should be fixed at the bottom of the page
+
+4. UI Recipe Page [recipeDetails.jsp]
+Fix overall layout design
+Add the rating stars or hearts
+Add more images
+Beautify Recipe Type table 
+Beautify Ingredient List
+Display Instruction steps by steps
+Put Nutritution information in table format
+Add Goto Top button - should be fixed at the bottom of the page
+ 
+5. UI Recipe Search Box [home.jsp, allRecipes.jsp]
+Make the search box fixed on the page
+Add Collapsible icon and function for search box
+Add Cuisines dropdown icon
+Add Preparation Time slidebar 
+Add Diets dropdown icon 
+Add Cooking type dropdown icon
+Add Allergies dropdown icon
+
+6. UI My Recipes List [myRecipesList.jsp]
+Beautify the recipe boxes
+Add the rating stars or stars 
+Add social media share icon 
+Move 'Clear All' and 'Generate Grocery List' button to the top right corner of the page.
+When click on 'Clear All', prompt 'Confirm action message box'
+Should we add check box to each recipe?
+
+7. Navigation Bar
+Add Logo
+Add social media icons
+Are we dispalying number of items in My Recipe List in nav bar? if so, please add that.
+
+ ********Completed Functionality ********
+1. Display all Recipes 
+2. sort recipes by name or popularity
+3. add recipe to my recipe list
+4. remove recipe from my recipe list
+5. generate grocery list
+6. display recipe page
+
+ ********Unfinished Functionality ********
+1. search recipes
+2. search cooking hacks
+
+********Good to be done ********
+1. How to make it so that when adding/removing recipe to/from my recipe list, page won't refresh.
+2. Bookmark recipe page [javascript function]
